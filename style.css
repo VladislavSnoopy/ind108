@@ -1,0 +1,86 @@
+body{
+    color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.menu{}
+.menu-left img{
+    margin-right: 23px;
+}
+
+.menu-left{
+    margin-right: 239px;
+    font-size: 32px;
+}
+
+.menu-center a{
+    margin-right: 40px;
+    font-size: 32px;
+}
+
+.menu-center{
+    margin-right: 336px;
+}
+
+.menu-right a{
+    background-color: black;
+    color: white;
+    padding: 6px 30px;
+    border-radius: 12px;
+    font-size: 24px;
+}
+
+.main-left{
+    text-align: center;
+}
+.main-left h3{
+    font-size: 32px;
+}
+
+.main-left p{
+    font-size: 32px;
+}
+.main-left a{
+    font-size: 32px;
+    background-color: #006A44;
+    color: white;
+    padding: 6px 30px;
+    border-radius: 60px;
+
+}
+
+.main-down img{
+    margin-top: 242px;
+    margin-left: 143px;
+}
+
+.gallery{
+    margin: 318px 97px;
+}
+.gallery img{
+    margin: 17px 26px;
+}
+
+.buy{
+    margin: 85px 80px;
+}
+.buy-left{
+    margin-right: 144px;
+}
+.buy-right h2{
+  
+}
+.buy-right p{
+   
+}
